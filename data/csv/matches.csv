@@ -240,13 +240,13 @@ season_id,match_id,slug,title,time_of_day,date,time,status,status_description,wi
 14450,103245,new-zealand-vs-pakistan-1st-semi-final,1st Semi-Final,night,2022-11-09,13:30:00,RESULT,Pakistan won by 7 wickets (with 5 balls remaining),7,5,1,132,5,7,153/3,,"19.1/20 ov, T:153"
 14450,103246,england-vs-india-2nd-semi-final,2nd Semi-Final,night,2022-11-10,13:30:00,RESULT,England won by 10 wickets (with 24 balls remaining),1,1,2,131,6,1,170/0,,"16/20 ov, T:169"
 14450,103247,england-vs-pakistan-final,Final,night,2022-11-13,13:30:00,RESULT,England won by 5 wickets (with 6 balls remaining),1,1,2,61,7,1,138/5,,"19/20 ov, T:138"
-15946,113487,united-states-of-america-vs-canada-1st-match-group-a,"1st Match, Group A",night,2024-06-01,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,3640,11,17,,,
-15946,113488,west-indies-vs-papua-new-guinea-2nd-match-group-c,"2nd Match, Group C",day,2024-06-02,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1986,4,20,,,
-15946,113489,namibia-vs-oman-3rd-match-group-b,"3rd Match, Group B",night,2024-06-02,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,199,28,37,,,
-15946,113490,sri-lanka-vs-south-africa-4th-match-group-d,"4th Match, Group D",day,2024-06-03,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,3662,8,3,,,
-15946,113491,afghanistan-vs-uganda-5th-match-group-c,"5th Match, Group C",night,2024-06-03,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1986,40,34,,,
-15946,113492,england-vs-scotland-6th-match-group-b,"6th Match, Group B",day,2024-06-04,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,199,1,30,,,
-15946,113493,netherlands-vs-nepal-7th-match-group-d,"7th Match, Group D",day,2024-06-04,21:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,3640,15,32,,,
+15946,113487,united-states-of-america-vs-canada-1st-match-group-a,"1st Match, Group A",night,2024-06-01,06:00:00,RESULT,U.S.A. won by 7 wickets (with 14 balls remaining),11,11,2,3640,17,11,197/3,,"17.4/20 ov, T:195"
+15946,113488,west-indies-vs-papua-new-guinea-2nd-match-group-c,"2nd Match, Group C",day,2024-06-02,20:00:00,RESULT,West Indies won by 5 wickets (with 6 balls remaining),4,4,2,1986,20,4,137/5,,"19/20 ov, T:137"
+15946,113489,namibia-vs-oman-3rd-match-group-b,"3rd Match, Group B",night,2024-06-02,06:00:00,RESULT,Match tied (Namibia won the Super Over),,28,2,199,37,28,109/6,19.4/20 ov,"20 ov, T:110"
+15946,113490,south-africa-vs-sri-lanka-4th-match-group-d,"4th Match, Group D",day,2024-06-03,20:00:00,RESULT,South Africa won by 6 wickets (with 22 balls remaining),3,8,1,3662,8,3,80/4,,"16.2/20 ov, T:78"
+15946,113491,afghanistan-vs-uganda-5th-match-group-c,"5th Match, Group C",night,2024-06-03,06:00:00,RESULT,Afghanistan won by 125 runs,40,34,2,1986,40,34,58,,"16/20 ov, T:184"
+15946,113492,england-vs-scotland-6th-match-group-b,"6th Match, Group B",day,2024-06-04,20:00:00,NO RESULT,No result,,30,1,199,30,1,,10/10 ov,
+15946,113493,nepal-vs-netherlands-7th-match-group-d,"7th Match, Group D",day,2024-06-04,21:00:00,RESULT,Netherlands won by 6 wickets (with 8 balls remaining),15,15,2,3640,32,15,109/4,,"18.4/20 ov, T:107"
 15946,113494,india-vs-ireland-8th-match-group-a,"8th Match, Group A",day,2024-06-05,19:30:00,{{MATCH_START_TIME}},Match yet to begin,,,,3662,6,29,,,
 15946,113495,papua-new-guinea-vs-uganda-9th-match-group-c,"9th Match, Group C",night,2024-06-05,05:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1986,20,34,,,
 15946,113496,australia-vs-oman-10th-match-group-b,"10th Match, Group B",night,2024-06-05,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,199,2,37,,,
