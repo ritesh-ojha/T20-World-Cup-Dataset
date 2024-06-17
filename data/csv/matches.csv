@@ -261,37 +261,37 @@ season_id,match_id,slug,title,time_of_day,date,time,status,status_description,wi
 15946,113505,india-vs-pakistan-19th-match-group-a,"19th Match, Group A",day,2024-06-09,20:00:00,RESULT,India won by 6 runs,6,7,2,3662,6,7,113/7,,"20 ov, T:120"
 15946,113506,oman-vs-scotland-20th-match-group-b,"20th Match, Group B",day,2024-06-09,22:30:00,RESULT,Scotland won by 7 wickets (with 41 balls remaining),30,37,1,1985,37,30,153/3,,"13.1/20 ov, T:151"
 15946,113507,bangladesh-vs-south-africa-21st-match-group-d,"21st Match, Group D",day,2024-06-10,20:00:00,RESULT,South Africa won by 4 runs,3,3,1,3662,3,25,109/7,,"20 ov, T:114"
-15946,113508,canada-vs-pakistan-22nd-match-group-a,"22nd Match, Group A",day,2024-06-11,20:00:00,Live,Pakistan chose to field.,,7,2,3662,17,7,,10.5/20 ov,
-15946,113509,nepal-vs-sri-lanka-23rd-match-group-d,"23rd Match, Group D",night,2024-06-11,05:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,2405,32,8,,,
-15946,113510,australia-vs-namibia-24th-match-group-b,"24th Match, Group B",night,2024-06-11,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1985,2,28,,,
-15946,113511,united-states-of-america-vs-india-25th-match-group-a,"25th Match, Group A",day,2024-06-12,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,3662,11,6,,,
-15946,113512,west-indies-vs-new-zealand-26th-match-group-c,"26th Match, Group C",night,2024-06-12,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,2041,4,5,,,
-15946,113513,bangladesh-vs-netherlands-27th-match-group-d,"27th Match, Group D",day,2024-06-13,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,680,25,15,,,
-15946,113514,england-vs-oman-28th-match-group-b,"28th Match, Group B",day,2024-06-13,00:30:00,{{MATCH_START_TIME}},Match yet to begin,,,,1985,1,37,,,
-15946,113515,afghanistan-vs-papua-new-guinea-29th-match-group-c,"29th Match, Group C",night,2024-06-13,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,2041,40,20,,,
-15946,113516,united-states-of-america-vs-ireland-30th-match-group-a,"30th Match, Group A",day,2024-06-14,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,2405,11,29,,,
-15946,113517,nepal-vs-south-africa-31st-match-group-d,"31st Match, Group D",night,2024-06-14,05:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,680,32,3,,,
-15946,113518,new-zealand-vs-uganda-32nd-match-group-c,"32nd Match, Group C",night,2024-06-14,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,2041,5,34,,,
-15946,113519,canada-vs-india-33rd-match-group-a,"33rd Match, Group A",day,2024-06-15,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,2405,17,6,,,
-15946,113520,england-vs-namibia-34th-match-group-b,"34th Match, Group B",day,2024-06-15,22:30:00,{{MATCH_START_TIME}},Match yet to begin,,,,1985,1,28,,,
-15946,113521,australia-vs-scotland-35th-match-group-b,"35th Match, Group B",night,2024-06-15,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1697,2,30,,,
-15946,113522,ireland-vs-pakistan-36th-match-group-a,"36th Match, Group A",day,2024-06-16,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,2405,29,7,,,
-15946,113523,bangladesh-vs-nepal-37th-match-group-d,"37th Match, Group D",night,2024-06-16,05:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,680,25,32,,,
-15946,113524,netherlands-vs-sri-lanka-38th-match-group-d,"38th Match, Group D",night,2024-06-16,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1697,15,8,,,
-15946,113525,new-zealand-vs-papua-new-guinea-39th-match-group-c,"39th Match, Group C",day,2024-06-17,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,2041,5,20,,,
+15946,113508,canada-vs-pakistan-22nd-match-group-a,"22nd Match, Group A",day,2024-06-11,20:00:00,RESULT,Pakistan won by 7 wickets (with 15 balls remaining),7,7,2,3662,17,7,107/3,,"17.3/20 ov, T:107"
+15946,113509,nepal-vs-sri-lanka-23rd-match-group-d,"23rd Match, Group D",night,2024-06-11,05:00:00,ABANDONED,Match abandoned without a ball bowled,,,,2405,32,8,,,
+15946,113510,australia-vs-namibia-24th-match-group-b,"24th Match, Group B",night,2024-06-11,06:00:00,RESULT,Australia won by 9 wickets (with 86 balls remaining),2,2,2,1985,28,2,74/1,,"5.4/20 ov, T:73"
+15946,113511,united-states-of-america-vs-india-25th-match-group-a,"25th Match, Group A",day,2024-06-12,20:00:00,RESULT,India won by 7 wickets (with 10 balls remaining),6,6,2,3662,11,6,111/3,,"18.2/20 ov, T:111"
+15946,113512,west-indies-vs-new-zealand-26th-match-group-c,"26th Match, Group C",night,2024-06-12,06:00:00,RESULT,West Indies won by 13 runs,4,5,2,2041,4,5,136/9,,"20 ov, T:150"
+15946,113513,bangladesh-vs-netherlands-27th-match-group-d,"27th Match, Group D",day,2024-06-13,20:00:00,RESULT,Bangladesh won by 25 runs,25,15,2,680,25,15,134/8,,"20 ov, T:160"
+15946,113514,england-vs-oman-28th-match-group-b,"28th Match, Group B",day,2024-06-13,00:30:00,RESULT,England won by 8 wickets (with 101 balls remaining),1,1,2,1985,37,1,50/2,,"3.1/20 ov, T:48"
+15946,113515,afghanistan-vs-papua-new-guinea-29th-match-group-c,"29th Match, Group C",night,2024-06-13,06:00:00,RESULT,Afghanistan won by 7 wickets (with 29 balls remaining),40,40,2,2041,20,40,101/3,,"15.1/20 ov, T:96"
+15946,113516,united-states-of-america-vs-ireland-30th-match-group-a,"30th Match, Group A",day,2024-06-14,20:00:00,ABANDONED,Match abandoned without a ball bowled,,,,2405,11,29,,,
+15946,113517,nepal-vs-south-africa-31st-match-group-d,"31st Match, Group D",night,2024-06-14,05:00:00,RESULT,South Africa won by 1 run,3,32,2,680,3,32,114/7,,"20 ov, T:116"
+15946,113518,new-zealand-vs-uganda-32nd-match-group-c,"32nd Match, Group C",night,2024-06-14,06:00:00,RESULT,New Zealand won by 9 wickets (with 88 balls remaining),5,5,2,2041,34,5,41/1,,"5.2/20 ov, T:41"
+15946,113519,canada-vs-india-33rd-match-group-a,"33rd Match, Group A",day,2024-06-15,20:00:00,ABANDONED,Match abandoned without a ball bowled,,,,2405,17,6,,,
+15946,113520,england-vs-namibia-34th-match-group-b,"34th Match, Group B",day,2024-06-15,22:30:00,RESULT,England won by 41 runs (DLS method),1,28,2,1985,1,28,84/3,10/10 ov,"10/10 ov, T:126"
+15946,113521,australia-vs-scotland-35th-match-group-b,"35th Match, Group B",night,2024-06-15,06:00:00,RESULT,Australia won by 5 wickets (with 2 balls remaining),2,2,2,1697,30,2,186/5,,"19.4/20 ov, T:181"
+15946,113522,ireland-vs-pakistan-36th-match-group-a,"36th Match, Group A",day,2024-06-16,20:00:00,RESULT,Pakistan won by 3 wickets (with 7 balls remaining),7,7,2,2405,29,7,111/7,,"18.5/20 ov, T:107"
+15946,113523,bangladesh-vs-nepal-37th-match-group-d,"37th Match, Group D",night,2024-06-16,05:00:00,RESULT,Bangladesh won by 21 runs,25,32,2,680,25,32,85,,"19.2/20 ov, T:107"
+15946,113524,netherlands-vs-sri-lanka-38th-match-group-d,"38th Match, Group D",night,2024-06-16,06:00:00,RESULT,Sri Lanka won by 83 runs,8,15,2,1697,8,15,118,,"16.4/20 ov, T:202"
+15946,113525,new-zealand-vs-papua-new-guinea-39th-match-group-c,"39th Match, Group C",day,2024-06-17,20:00:00,Live,New Zealand chose to field.,,5,2,2041,20,5,,12.5/20 ov,
 15946,113526,west-indies-vs-afghanistan-40th-match-group-c,"40th Match, Group C",night,2024-06-17,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1697,4,40,,,
-15946,113527,tba-vs-tba-41st-match-super-eights-group-2,"41st Match, Super Eights, Group 2",day,2024-06-19,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1985,0,0,,,
-15946,113528,tba-vs-tba-42nd-match-super-eights-group-2,"42nd Match, Super Eights, Group 2",night,2024-06-19,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1697,0,0,,,
-15946,113529,tba-vs-tba-43rd-match-super-eights-group-1,"43rd Match, Super Eights, Group 1",day,2024-06-20,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,199,0,0,,,
-15946,113530,tba-vs-tba-44th-match-super-eights-group-1,"44th Match, Super Eights, Group 1",night,2024-06-20,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1985,0,0,,,
-15946,113531,tba-vs-tba-45th-match-super-eights-group-2,"45th Match, Super Eights, Group 2",day,2024-06-21,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1697,0,0,,,
-15946,113532,tba-vs-tba-46th-match-super-eights-group-2,"46th Match, Super Eights, Group 2",night,2024-06-21,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,199,0,0,,,
-15946,113533,tba-vs-tba-47th-match-super-eights-group-1,"47th Match, Super Eights,Group 1",day,2024-06-22,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1985,0,0,,,
-15946,113534,tba-vs-tba-48th-match-super-eights-group-1,"48th Match, Super Eights, Group 1",night,2024-06-22,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,680,0,0,,,
-15946,113535,tba-vs-tba-49th-match-super-eights-group-2,"49th Match, Super Eights, Group 2",day,2024-06-23,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,199,0,0,,,
-15946,113536,tba-vs-tba-50th-match-super-eights-group-2,"50th Match, Super Eights, Group 2",night,2024-06-23,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1985,0,0,,,
-15946,113537,tba-vs-tba-51st-match-super-eights-group-1,"51st Match, Super Eights, Group 1",day,2024-06-24,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1697,0,0,,,
-15946,113538,tba-vs-tba-52nd-match-super-eights-group-1,"52nd Match, Super Eights, Group 1",night,2024-06-24,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,680,0,0,,,
+15946,113527,south-africa-vs-united-states-of-america-41st-match-super-eights-group-2,"41st Match, Super Eights, Group 2",day,2024-06-19,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1985,3,11,,,
+15946,113528,west-indies-vs-england-42nd-match-super-eights-group-2,"42nd Match, Super Eights, Group 2",night,2024-06-19,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1697,4,1,,,
+15946,113529,afghanistan-vs-india-43rd-match-super-eights-group-1,"43rd Match, Super Eights, Group 1",day,2024-06-20,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,199,40,6,,,
+15946,113530,australia-vs-bangladesh-44th-match-super-eights-group-1,"44th Match, Super Eights, Group 1",night,2024-06-20,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1985,2,25,,,
+15946,113531,england-vs-south-africa-45th-match-super-eights-group-2,"45th Match, Super Eights, Group 2",day,2024-06-21,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1697,1,3,,,
+15946,113532,west-indies-vs-united-states-of-america-46th-match-super-eights-group-2,"46th Match, Super Eights, Group 2",night,2024-06-21,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,199,4,11,,,
+15946,113533,bangladesh-vs-india-47th-match-super-eights-group-1,"47th Match, Super Eights,Group 1",day,2024-06-22,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1985,25,6,,,
+15946,113534,afghanistan-vs-australia-48th-match-super-eights-group-1,"48th Match, Super Eights, Group 1",night,2024-06-22,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,680,40,2,,,
+15946,113535,england-vs-united-states-of-america-49th-match-super-eights-group-2,"49th Match, Super Eights, Group 2",day,2024-06-23,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,199,1,11,,,
+15946,113536,west-indies-vs-south-africa-50th-match-super-eights-group-2,"50th Match, Super Eights, Group 2",night,2024-06-23,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1985,4,3,,,
+15946,113537,australia-vs-india-51st-match-super-eights-group-1,"51st Match, Super Eights, Group 1",day,2024-06-24,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1697,2,6,,,
+15946,113538,afghanistan-vs-bangladesh-52nd-match-super-eights-group-1,"52nd Match, Super Eights, Group 1",night,2024-06-24,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,680,40,25,,,
 15946,113539,tba-vs-tba-1st-semi-final,1st Semi-Final,night,2024-06-26,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,2041,0,0,,,
 15946,113540,tba-vs-tba-2nd-semi-final,2nd Semi-Final,day,2024-06-27,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1986,0,0,,,
 15946,113541,tba-vs-tba-final,Final,day,2024-06-29,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,199,0,0,,,
