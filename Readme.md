@@ -29,16 +29,22 @@ Welcome to the T20 World Cup Dataset! This project is designed to manage and sto
 
 ## Usage
 
+- The `code/Base package.zip` file contains all the scraping scripts and raw files used to generate this dataset.
+
+- You can extract and run these scripts if you wish to recreate the dataset from scratch or modify the scraping logic for future updates.
+
+
 ## Structure
 ```
 t20-world-cup-dataset/
-│
-├── README.md             # This README file
-├── data/                 # Data storage directory
+├── code/
+        ├── Base package.zip    # Contains all scraping scripts and raw files
+├── README.md                   # This README file
+├── data/                       # Data storage directory
         ├── csv/
         ├── json/
         ├── zip/                 
-├── models/               # Data models
+├── models/                     # Data models
 
 
 ```
